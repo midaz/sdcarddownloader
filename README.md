@@ -2,7 +2,7 @@ SD Card Downloader
 
 Automated file transfer from Camera SD cards to computer hard drive
 
-Run script using Python 2.7 or later.
+Run script using Python 2.7 or later. TERMINAL--> "python sdcarddownloader.py"
 
 Call script in terminal and enter the following when prompted:
   1. File type to copy (in our case, enter ".mp4")
